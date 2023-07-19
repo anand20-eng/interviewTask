@@ -1,6 +1,7 @@
 .table-data {
     width: 50% !important;
     margin-left: 5% !important;
+    size: 100px;
 }
 
 .caret {

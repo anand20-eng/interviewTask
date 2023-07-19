@@ -1,0 +1,49 @@
+.table-for-users {
+    width: 70% !important;
+    margin-left: 10% !important;
+}
+
+.th-SRO {
+    width: 3%;
+}
+
+.th-name {
+    width: 10%;
+}
+
+.th-roleName {
+    width: 7%;
+}
+
+.th-Action {
+    width: 5%;
+}
+
+.th-date {
+    width: 10%;
+}
+.th-mobileNumber {
+    width: 10%;
+}
+
+.th-isActive {
+    width: 6%;
+}
+
+.th-ProfileImage {
+    width: 7%;
+}
+.th-email {
+    width: 15%;
+}
+
+.th-gender {
+    width: 5%;
+}
+
+.form {
+    margin-left: 7% !important;
+}
+.mb-3 {
+    margin-left: 10% !important;
+}
